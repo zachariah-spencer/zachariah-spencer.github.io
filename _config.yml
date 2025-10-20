@@ -32,7 +32,8 @@ header_pages:
   - about.markdown
 
 # Build settings
-theme: jekyll-theme-so-simple
+# theme: jekyll-theme-so-simple
+remote_theme: "mmistakes/so-simple-theme@3.2.0"
 skin: "/assets/css/skins/dark.css"
 plugins:
   - jekyll-feed
