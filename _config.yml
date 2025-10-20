@@ -37,6 +37,7 @@ remote_theme: "mmistakes/so-simple-theme@3.2.0"
 skin: "/assets/css/skins/dark.css"
 plugins:
   - jekyll-feed
+  - jekyll-remote_theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
