@@ -30,6 +30,7 @@ header_pages:
   - artifacts/travlr-getaways.md
   - artifacts/napitak.md
   - about.markdown
+  - code-review.md
 
 # Build settings
 # theme: jekyll-theme-so-simple
